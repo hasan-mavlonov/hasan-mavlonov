@@ -6,7 +6,7 @@
 
 ## Hi, I'm Hasan
 
-**CTO at [MindForm](https://mindform-ai.com/) · AI engineer · Shanghai**
+**CTO at [MindForm](https://mindform-ai.com/) & [Defex](https://defex.app/) · AI engineer · Shanghai**
 
 I build persistent personalities for AI agents in games and robotics.
 
@@ -14,6 +14,7 @@ I build persistent personalities for AI agents in games and robotics.
 
 [![Website](https://img.shields.io/badge/Website-1B335A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hasanmavlonov.com/)
 [![MindForm](https://img.shields.io/badge/MindForm-355D9A?style=for-the-badge&logoColor=white)](https://mindform-ai.com/demo)
+[![Defex](https://img.shields.io/badge/Defex-46688F?style=for-the-badge&logoColor=white)](https://defex.app/)
 
 </div>
 
